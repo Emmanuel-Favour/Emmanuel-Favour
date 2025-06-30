@@ -9,9 +9,9 @@ I am results-oriented Data Analyst with a proven track record in leveraging data
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/favour-emmanuel-186968172/)
 * ✉️  You can contact me at [oluwadarasimifavour@gmail.com](mailto:oluwadarasimifavour@gmail.com)
-* 🚀  I'm currently working on [Use of Machine Learning to Spam Emails](http://https://github.com/Emmanuel-Favour/Spam_Email_Detection)
-* 🧠  I'm learning Machine Learning and AI
-* 🤝  I'm open to collaborating on Market Analysis, Market Research Analysis Project
+* 🚀  I'm currently working on [Use of Machine Learning to detect Spam Emails](http://https://github.com/Emmanuel-Favour/Spam_Email_Detection)
+* 🧠  I'm learning Machine Learning and AI with intersection with Material Science
+* 🤝  I'm open to collaborating on Data Analysys, Business Intelligence, Market Analysis Project and as well in Computational Science Research
 
 <a href="https://www.github.com/Emmanuel-Favour" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Emmanuel-Favour?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
