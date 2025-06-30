@@ -36,17 +36,16 @@ src="https://img.shields.io/github/followers/Emmanuel-Favour?logo=github&style=f
 
 <a href="http://www.github.com/Emmanuel-Favour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Favour&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Emmanuel-Favour" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Favour&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-  ### 🚀 Data Skills
+  ###  Data Skills
   
   | Skill     | Strength |
   |-----------|----------|
-  | **Python** | ![■■■■■■■■■■□□□□□□□□□□□□□□□](https://img.shields.io/badge/-93%25-orange?style=flat)  |
-  | **SQL**    | ![■■■■■■■■■■■■■■■□□□□□□□□□□](https://img.shields.io/badge/-85%25-blue?style=flat)   |
-  | **Tableau**| ![■■■■■■■■■■■□□□□□□□□□□□□□](https://img.shields.io/badge/-70%25-purple?style=flat) |
-  | **Excel**  | ![■■■■■■■■■■■■■■□□□□□□□□□□□](https://img.shields.io/badge/-80%25-green?style=flat)  |
-  | **R**      | ![■■■■■■■■□□□□□□□□□□□□□□□](https://img.shields.io/badge/-60%25-silver?style=flat)  |
+  | **SQL**    | ![■■■■■■■■■■■■■■■□□□□□□□□□□](https://img.shields.io/badge/-85%25-green?style=flat)   |
+  | **Tableau**| ![■■■■■■■■■■■□□□□□□□□□□□□□](https://img.shields.io/badge/-80%25-blue?style=flat) |
+  | **Excel**  | ![■■■■■■■■■■■■■■□□□□□□□□□□□](https://img.shields.io/badge/-80%25-blue?style=flat)  |
+  | **Python** | ![■■■■■■■■■■□□□□□□□□□□□□□□□](https://img.shields.io/badge/-75%25-orange?style=flat)  |
+  | **R**      | ![■■■■■■■■□□□□□□□□□□□□□□□](https://img.shields.io/badge/-60%25-purple?style=flat)  |
+  | **PowerBI**| ![■■■■■■■■□□□□□□□□□□□□□□□](https://img.shields.io/badge/-50%25-silver?style=flat)  |
 
 
 
@@ -60,3 +59,16 @@ src="https://img.shields.io/github/followers/Emmanuel-Favour?logo=github&style=f
 
 
 <div width="100%" align="center"><a href="https://github.com/Emmanuel-Favour/Interactive-Business-Intelligence-Dashboads-and-slides" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-Favour&repo=Interactive-Business-Intelligence-Dashboads-and-slides&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Emmanuel-Favour/customer-sales-analytics-advance-sql" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-Favour&repo=customer-sales-analytics-advance-sql&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Emmanuel-Favour/Interactive-Business-Intelligence-Dashboads-and-slides" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-Favour&repo=Interactive-Business-Intelligence-Dashboads-and-slides&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Emmanuel-Favour/customer-sales-analytics-advance-sql" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-Favour&repo=customer-sales-analytics-advance-sql&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Emmanuel-Favour/Sales-Performance-Analysis-ESheet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-Favour&repo=Sales-Performance-Analysis-ESheet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Emmanuel-Favour/Market-Analysis-for-bike-share-company-in-Chicago" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-Favour&repo=Market-Analysis-for-bike-share-company-in-Chicago&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Emmanuel-Favour/Sales-Performance-Analysis-ESheet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-Favour&repo=Sales-Performance-Analysis-ESheet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Emmanuel-Favour/Market-Analysis-for-bike-share-company-in-Chicago" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-Favour&repo=Market-Analysis-for-bike-share-company-in-Chicago&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
