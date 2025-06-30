@@ -10,7 +10,7 @@ I am results-oriented Data Analyst with a proven track record in leveraging data
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/favour-emmanuel-186968172/)
 * ✉️  You can contact me at [oluwadarasimifavour@gmail.com](mailto:oluwadarasimifavour@gmail.com)
 * 🚀  I'm currently working on [Use of Machine Learning to detect Spam Emails](http://https://github.com/Emmanuel-Favour/Spam_Email_Detection)
-* 🧠  I'm learning Machine Learning and AI with intersection with Material Science
+* 🧠  I'm learning Machine Learning and it intersection with Computational Science
 * 🤝  I'm open to collaborating on Data Analysys, Business Intelligence, Market Analysis Project and as well in Computational Science Research
 
 <a href="https://www.github.com/Emmanuel-Favour" target="_blank" rel="noreferrer"><img
