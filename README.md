@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Favour Oluwadarasimi Emmanuel
 =====================================================================================================================================================
 
-Data Analyst
+Data Analyst, Business Intelligence Analyst
 ------------
 
 I am results-oriented Data Analyst with a proven track record in leveraging data-driven insights to optimize operational processes. Skilled in utilizing data analysis techniques, automation tools, and project management methodologies to drive process improvement and enhance operational efficiency. I possess strong communication and collaboration skills to work effectively with cross-functional teams and stakeholders.
