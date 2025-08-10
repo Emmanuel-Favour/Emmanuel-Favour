@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Favour Oluwadarasimi Emmanuel
 =====================================================================================================================================================
 
-Data Analyst, Business Intelligence Analyst
+Chemical Engineer, Business Intelligence Analyst
 ------------
 
 I am results-oriented Data Analyst with a proven track record in leveraging data-driven insights to optimize operational processes. Skilled in utilizing data analysis techniques, automation tools, and project management methodologies to drive process improvement and enhance operational efficiency. I possess strong communication and collaboration skills to work effectively with cross-functional teams and stakeholders.
@@ -10,7 +10,7 @@ I am results-oriented Data Analyst with a proven track record in leveraging data
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/favour-emmanuel-186968172/)
 * ✉️  You can contact me at [oluwadarasimifavour@gmail.com](mailto:oluwadarasimifavour@gmail.com)
 * 🚀  I'm currently working on [Predicting Atomic Energy & Forces with (EGNN) architecture](https://github.com/Emmanuel-Favour/MLIP-Neural-Equivariant-Inter-atomic-Potential---NequIP-)
-* 🧠  I'm learning Machine Learning and it intersection with Computational Science
+* 🧠  I'm an aspiring Computational Catalysis + Machine Learning Researcher
 * 🤝  I'm open to collaborating on Business Intelligence, Market Analysis and other Computational Science projects
 
 <a href="https://www.github.com/Emmanuel-Favour" target="_blank" rel="noreferrer"><img
