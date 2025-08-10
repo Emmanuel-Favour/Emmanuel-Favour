@@ -9,7 +9,7 @@ I am results-oriented Data Analyst with a proven track record in leveraging data
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/favour-emmanuel-186968172/)
 * ✉️  You can contact me at [oluwadarasimifavour@gmail.com](mailto:oluwadarasimifavour@gmail.com)
-* 🚀  I'm currently working on [NequIP (Neural Equivariant Interatomic Potentials) using the Equivariant Graph Neural Network (EGNN) architecture](https://github.com/Emmanuel-Favour/MLIP-Neural-Equivariant-Inter-atomic-Potential---NequIP-)
+* 🚀  I'm currently working on [Predicting Atomic Energy & Forces with (EGNN) architecture](https://github.com/Emmanuel-Favour/MLIP-Neural-Equivariant-Inter-atomic-Potential---NequIP-)
 * 🧠  I'm learning Machine Learning and it intersection with Computational Science
 * 🤝  I'm open to collaborating on Business Intelligence, Market Analysis and other Computational Science projects
 
